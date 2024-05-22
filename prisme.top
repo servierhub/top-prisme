@@ -1,0 +1,36 @@
+<!--author="Hubert Tournier"-->
+<!--topgh:source id="prisme" file="prisme.src"-->
+<!--topgh:destination file="README.md" format="MD"-->
+# PRISME Forum members on GitHub
+This is an automatically generated[^1] list of [PRISME Forum members](https://prismeforum.org/) that are present on GitHub. It will be periodically refreshed.
+
+Also be sure to check our companion list of [best open source software from those companies](https://github.com/servierhub/top-opensource-prisme).
+
+## PRISME Forum Mission and Goals (extract)
+The mission of PRISME is to provide a forum for the exchange of non-commercially sensitive information among its Members in order to enhance the efficiency, effectiveness and impact of global Research and Development Information Management and Information Technology (“R&D IT”) organizations within the biotechnology and pharmaceutical (“biotech and pharma”) industries.
+
+Some of the major goals of PRISME are to:
+
+1. Establish and maintain a network among the Members that fosters open communication of non-commercially sensitive information.
+
+3. Promote the development and use of open standards for applications utilized in biotech and pharma R&D.
+
+5. Alert Members to new and emerging information technologies and products of special relevance to biotech and pharma R&D.
+
+
+## Ranked by starred repositories
+<!--topgh:top.accounts.1 source="prisme" order_by="stars" show_accounts=True hide_private=True-->
+
+> [!NOTE]
+> **Repos** includes forked repositories but excludes ".github" or account namesake ones.<br>
+> **followers** accumulates accounts followers whether they are unique or not.
+
+> [!TIP]
+> If your company is not listed, if one of your GitHub accounts is missing or if one of the accounts is not yours,
+> please [contact us](https://github.com/servierhub/top-prisme/discussions) for modification,
+> or [fork](https://docs.github.com/en/pull-requests/collaborating-with-pull-requests/working-with-forks/about-forks) this repository,
+> edit the [prisme.src](https://github.com/servierhub/top-prisme/blob/main/prisme.src) source file
+> and make a [pull request](https://docs.github.com/articles/about-pull-requests).
+
+[^1]: This page was generated with the [topgh](https://github.com/HubTou/topgh) open source software on 
+<!--topgh:date-->
