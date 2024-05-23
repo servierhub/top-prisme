@@ -2,8 +2,6 @@
 # PRISME Forum members on GitHub
 This is an automatically generated[^1] list of [PRISME Forum members](https://prismeforum.org/) that are present on GitHub. It will be periodically refreshed.
 
-Also be sure to check our companion list of [best open source software from those companies](https://github.com/servierhub/top-opensource-prisme).
-
 ## PRISME Forum Mission and Goals (extract)
 The mission of PRISME is to provide a forum for the exchange of non-commercially sensitive information among its Members in order to enhance the efficiency, effectiveness and impact of global Research and Development Information Management and Information Technology (“R&D IT”) organizations within the biotechnology and pharmaceutical (“biotech and pharma”) industries.
 
@@ -15,8 +13,12 @@ Some of the major goals of PRISME are to:
 
 5. Alert Members to new and emerging information technologies and products of special relevance to biotech and pharma R&D.
 
+What follows is intended to contribute reaching these goals.
 
-## Ranked by starred repositories
+However, if you don't want to spend time checking what each member publishes (over 1200 repositories on 180+ GitHub acounts), you can use our companion list of [top open-source software from their companies](https://github.com/servierhub/top-opensource-prisme) instead, where these repositories will be ranked by stars received for you to zoom on the most recognized software first...
+
+## Groups ranked by starred repositories with all details
+This listing gives you access to all GitHub accounts used in this survey:
 |Rank|Group|GitHub Account|Stars|Repos|Followers|
 |---|---|---|---|---|---|
 |1|[AstraZeneca](https://en.wikipedia.org/wiki/AstraZeneca)||**7393**|**133**|**366**|
@@ -185,8 +187,8 @@ Some of the major goals of PRISME are to:
 |||<img src="https://avatars.githubusercontent.com/u/34661187?v=4" width="32" height="32"> [Editas Medicine](https://github.com/editasmedicinedev)|0|0|3|
 |18|[Bristol Myers Squibb](https://en.wikipedia.org/wiki/Bristol-Myers_Squibb)||**9**|**1**|**0**|
 |||<img src="https://avatars.githubusercontent.com/u/72743984?s=200&v=4" width="32" height="32"> [BMS-CPP](https://github.com/BMS-CPP)|9|1|0|
-|19|[Les Laboratoires Servier](https://en.wikipedia.org/wiki/Laboratoires_Servier)||**1**|**9**|**6**|
-|||<img src="https://avatars.githubusercontent.com/u/163363937?s=200&v=4" width="32" height="32"> [SERVIER HUB](https://github.com/servierhub)|1|9|2|
+|19|[Les Laboratoires Servier](https://en.wikipedia.org/wiki/Laboratoires_Servier)||**7**|**14**|**6**|
+|||<img src="https://avatars.githubusercontent.com/u/163363937?s=200&v=4" width="32" height="32"> [SERVIER HUB](https://github.com/servierhub)|7|14|2|
 |||<img src="https://avatars.githubusercontent.com/u/88554853?s=200&v=4" width="32" height="32"> [Servier do Brasil](https://github.com/ServierDoBrasil)|0|0|4|
 |||<img src="https://avatars.githubusercontent.com/u/71084417?s=200&v=4" width="32" height="32"> [Servier](https://github.com/servier-github)|0|0|0|
 |||<img src="https://avatars.githubusercontent.com/u/77001237?s=200&v=4" width="32" height="32"> [servier-data-factory](https://github.com/servier-data-factory)|0|0|0|
@@ -195,12 +197,37 @@ Some of the major goals of PRISME are to:
 |||<img src="https://avatars.githubusercontent.com/u/69671602?s=200&v=4" width="32" height="32"> [Servier Laboratories South Africa](https://github.com/Servier-Laboratories-South-Africa)|0|0|0|
 |||<img src="https://avatars.githubusercontent.com/u/78061992?s=200&v=4" width="32" height="32"> [Servier Vietnam IS](https://github.com/servier-vn1-is)|0|0|0|
 |||<img src="https://avatars.githubusercontent.com/u/16940165?v=4" width="32" height="32"> [Biogaran](https://github.com/Biogaran)|0|0|0|
-|19|[Sumitomo Pharma](https://en.wikipedia.org/wiki/Sumitomo_Pharma)||**1**|**3**|**0**|
+|20|[Takeda](https://en.wikipedia.org/wiki/Takeda_Pharmaceutical_Company)||**4**|**0**|**0**|
+|||<img src="https://avatars.githubusercontent.com/u/60409014?s=200&v=4" width="32" height="32"> [Takeda](https://github.com/oneTakeda)|4|0|0|
+|21|[Sumitomo Pharma](https://en.wikipedia.org/wiki/Sumitomo_Pharma)||**1**|**3**|**0**|
 |||<img src="https://avatars.githubusercontent.com/u/30916219?s=200&v=4" width="32" height="32"> [Sumitovant Digital Innovation](https://github.com/roivant)|1|3|0|
 |||<img src="https://avatars.githubusercontent.com/u/58983838?s=200&v=4" width="32" height="32"> [Sumitovant](https://github.com/sumitovant)|0|0|0|
-|20|[Amgen](https://en.wikipedia.org/wiki/Amgen)||**0**|**2**|**4**|
+|22|[Amgen](https://en.wikipedia.org/wiki/Amgen)||**0**|**2**|**4**|
 |||<img src="https://avatars.githubusercontent.com/u/5695404?s=200&v=4" width="32" height="32"> [Amgen](https://github.com/Amgen)|0|2|4|
-|20|[Jazz Pharmaceuticals](https://en.wikipedia.org/wiki/Jazz_Pharmaceuticals)||**0**|**1**|**1**|
+|22|[Astellas Pharma](https://en.wikipedia.org/wiki/Astellas_Pharma)||**0**|**0**|**0**|
+|||<img src="https://avatars.githubusercontent.com/u/37211351?s=200&v=4" width="32" height="32"> [Astellas Nordic](https://github.com/astellasnordic)|0|0|0|
+|22|[Blueprint Medicines](https://www.blueprintmedicines.com/)||**0**|**0**|**0**|
+|||<img src="https://avatars.githubusercontent.com/u/8050329?s=200&v=4" width="32" height="32"> [Blueprint Medicines](https://github.com/blueprintmedicines)|0|0|0|
+|22|[Daiichi Sankyo](https://en.wikipedia.org/wiki/Daiichi_Sankyo)||**0**|**0**|**52**|
+|||<img src="https://avatars.githubusercontent.com/u/90361026?s=200&v=4" width="32" height="32"> [Daiichi-Sankyo (External)](https://github.com/daiichisankyo-external)|0|0|18|
+|||<img src="https://avatars.githubusercontent.com/u/89757670?s=200&v=4" width="32" height="32"> [Daiichi-Sankyo (General)](https://github.com/daiichisankyo-general)|0|0|18|
+|||<img src="https://avatars.githubusercontent.com/u/90361034?s=200&v=4" width="32" height="32"> [Daiichi-Sankyo (Training)](https://github.com/daiichisankyo-training)|0|0|15|
+|||<img src="https://avatars.githubusercontent.com/u/90361003?s=200&v=4" width="32" height="32"> [Daiichi-Sankyo](https://github.com/daiichisankyo)|0|0|1|
+|||<img src="https://avatars.githubusercontent.com/u/99969459?s=200&v=4" width="32" height="32"> [Daiichi-Sankyo Europe GmbH](https://github.com/Daiichi-Sankyo-Europe-GmbH)|0|0|0|
+|||<img src="https://avatars.githubusercontent.com/u/90361043?s=200&v=4" width="32" height="32"> [Daiichi-Sankyo (Admin Dev)](https://github.com/daiichisankyo-admin-dev)|0|0|0|
+|22|[Eisai](https://en.wikipedia.org/wiki/Eisai_(company))||**0**|**0**|**13**|
+|||<img src="https://avatars.githubusercontent.com/u/77475210?s=200&v=4" width="32" height="32"> [EISAI](https://github.com/Eisai-US)|0|0|13|
+|||<img src="https://avatars.githubusercontent.com/u/113433046?s=200&v=4" width="32" height="32"> [EISAI - h3biomed](https://github.com/h3biomed-replica)|0|0|0|
+|||<img src="https://avatars.githubusercontent.com/u/60458536?s=200&v=4" width="32" height="32"> [eisai-jp](https://github.com/Eisai-jp)|0|0|0|
+|||<img src="https://avatars.githubusercontent.com/u/111266552?s=200&v=4" width="32" height="32"> [Practice](https://github.com/Eisai-Inc)|0|0|0|
+|||<img src="https://avatars.githubusercontent.com/u/77908802?s=200&v=4" width="32" height="32"> [Eisai-UK](https://github.com/Eisai-UK)|0|0|0|
+|22|[Ferring Pharmaceuticals](https://en.wikipedia.org/wiki/Ferring_Pharmaceuticals)||**0**|**0**|**0**|
+|||<img src="https://avatars.githubusercontent.com/u/115371205?s=200&v=4" width="32" height="32"> [Ferring](https://github.com/ferringcode)|0|0|0|
+|||<img src="https://avatars.githubusercontent.com/u/72673099?s=200&v=4" width="32" height="32"> [Ferring Bioinformatics](https://github.com/FerringBioInformatics)|0|0|0|
+|||<img src="https://avatars.githubusercontent.com/u/151746418?v=4" width="32" height="32"> [ferring-pelu1](https://github.com/ferring-pelu1)|0|0|0|
+|||<img src="https://avatars.githubusercontent.com/u/115017227?s=200&v=4" width="32" height="32"> [FERRING BR](https://github.com/FERRING-BR)|0|0|0|
+|||<img src="https://avatars.githubusercontent.com/u/97103976?s=200&v=4" width="32" height="32"> [Ferring IC sa](https://github.com/Ferring-IC-sa)|0|0|0|
+|22|[Jazz Pharmaceuticals](https://en.wikipedia.org/wiki/Jazz_Pharmaceuticals)||**0**|**1**|**1**|
 |||<img src="https://avatars.githubusercontent.com/u/81709391?v=4" width="32" height="32"> [Jazzpharma](https://github.com/Jazzpharma)|0|1|1|
 
 > [!NOTE]
@@ -215,4 +242,4 @@ Some of the major goals of PRISME are to:
 > and make a [pull request](https://docs.github.com/articles/about-pull-requests).
 
 [^1]: This page was generated with the [topgh](https://github.com/HubTou/topgh) open source software on
-2024-05-22
+2024-05-23

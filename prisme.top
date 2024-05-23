@@ -4,8 +4,6 @@
 # PRISME Forum members on GitHub
 This is an automatically generated[^1] list of [PRISME Forum members](https://prismeforum.org/) that are present on GitHub. It will be periodically refreshed.
 
-Also be sure to check our companion list of [best open source software from those companies](https://github.com/servierhub/top-opensource-prisme).
-
 ## PRISME Forum Mission and Goals (extract)
 The mission of PRISME is to provide a forum for the exchange of non-commercially sensitive information among its Members in order to enhance the efficiency, effectiveness and impact of global Research and Development Information Management and Information Technology (“R&D IT”) organizations within the biotechnology and pharmaceutical (“biotech and pharma”) industries.
 
@@ -17,9 +15,13 @@ Some of the major goals of PRISME are to:
 
 5. Alert Members to new and emerging information technologies and products of special relevance to biotech and pharma R&D.
 
+What follows is intended to contribute reaching these goals.
 
-## Ranked by starred repositories
-<!--topgh:top.accounts.1 source="prisme" order_by="stars" show_accounts=True hide_private=True-->
+However, if you don't want to spend time checking what each member publishes (over 1200 repositories on 180+ GitHub acounts), you can use our companion list of [top open-source software from their companies](https://github.com/servierhub/top-opensource-prisme) instead, where these repositories will be ranked by stars received for you to zoom on the most recognized software first...
+
+## Groups ranked by starred repositories with all details
+This listing gives you access to all GitHub accounts used in this survey:
+<!--topgh:top.accounts.1 source="prisme" order_by="stars" show_accounts=True-->
 
 > [!NOTE]
 > **Repos** includes forked repositories but excludes ".github" or account namesake ones.<br>
