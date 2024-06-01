@@ -1,8 +1,13 @@
 <!--author="Hubert Tournier"-->
 <!--topgh:source id="prisme" file="prisme.src"-->
 <!--topgh:destination file="README.md" format="MD"-->
+[![Servier Contributed](https://raw.githubusercontent.com/servierhub/.github/main/badges/contributed.svg)](https://github.com/ServierHub/)
 # PRISME Forum members on GitHub
-This is an automatically generated[^1] list of [PRISME Forum members](https://prismeforum.org/) that are present on GitHub. It will be periodically refreshed.
+This is an automatically generated[^1] list of [PRISME Forum members](https://prismeforum.org/) that are present on GitHub. It will be periodically refreshed from the following GitHub accounts.
+
+You can also access the [ranked listing of open source software they share](Results/SOFTWARE.md) or [what they have updated lately](Results/NEW.md).
+
+This was initially presented during the [PRISME Forum event in Saclay, France, on May 20-23 2024](https://www.linkedin.com/posts/frederic-careghi_prismeforum-servier-parissaclay-activity-7199710738674786304-CXMm?utm_source=share&utm_medium=member_desktop).
 
 ## PRISME Forum Mission and Goals (extract)
 The mission of PRISME is to provide a forum for the exchange of non-commercially sensitive information among its Members in order to enhance the efficiency, effectiveness and impact of global Research and Development Information Management and Information Technology (“R&D IT”) organizations within the biotechnology and pharmaceutical (“biotech and pharma”) industries.
@@ -21,11 +26,6 @@ However, if you don't want to spend time checking what each member publishes (ov
 
 ## Groups ranked by starred repositories with all details
 This listing gives you access to all GitHub accounts used in this survey:
-<!--topgh:top.accounts.1 source="prisme" order_by="stars" show_accounts=True-->
-
-> [!NOTE]
-> **Repos** includes forked repositories but excludes ".github" or account namesake ones.<br>
-> **followers** accumulates accounts followers whether they are unique or not.
 
 > [!TIP]
 > If your company is not listed, if one of your GitHub accounts is missing or if one of the accounts is not yours,
@@ -33,6 +33,12 @@ This listing gives you access to all GitHub accounts used in this survey:
 > or [fork](https://docs.github.com/en/pull-requests/collaborating-with-pull-requests/working-with-forks/about-forks) this repository,
 > edit the [prisme.src](https://github.com/servierhub/top-prisme/blob/main/prisme.src) source file
 > and make a [pull request](https://docs.github.com/articles/about-pull-requests).
+
+<!--topgh:top.accounts.1 source="prisme" order_by="stars" show_accounts=True-->
+
+> [!NOTE]
+> **Repos** includes forked repositories but excludes ".github" or account namesake ones.<br>
+> **followers** accumulates accounts followers whether they are unique or not.
 
 [^1]: This page was generated with the [topgh](https://github.com/HubTou/topgh) open source software on 
 <!--topgh:date-->

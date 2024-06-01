@@ -1,6 +1,11 @@
 <!--author="Hubert Tournier"-->
+[![Servier Contributed](https://raw.githubusercontent.com/servierhub/.github/main/badges/contributed.svg)](https://github.com/ServierHub/)
 # PRISME Forum members on GitHub
-This is an automatically generated[^1] list of [PRISME Forum members](https://prismeforum.org/) that are present on GitHub. It will be periodically refreshed.
+This is an automatically generated[^1] list of [PRISME Forum members](https://prismeforum.org/) that are present on GitHub. It will be periodically refreshed from the following GitHub accounts.
+
+You can also access the [ranked listing of open source software they share](Results/SOFTWARE.md) or [what they have updated lately](Results/NEW.md).
+
+This was initially presented during the [PRISME Forum event in Saclay, France, on May 20-23 2024](https://www.linkedin.com/posts/frederic-careghi_prismeforum-servier-parissaclay-activity-7199710738674786304-CXMm?utm_source=share&utm_medium=member_desktop).
 
 ## PRISME Forum Mission and Goals (extract)
 The mission of PRISME is to provide a forum for the exchange of non-commercially sensitive information among its Members in order to enhance the efficiency, effectiveness and impact of global Research and Development Information Management and Information Technology (“R&D IT”) organizations within the biotechnology and pharmaceutical (“biotech and pharma”) industries.
@@ -19,31 +24,39 @@ However, if you don't want to spend time checking what each member publishes (ov
 
 ## Groups ranked by starred repositories with all details
 This listing gives you access to all GitHub accounts used in this survey:
+
+> [!TIP]
+> If your company is not listed, if one of your GitHub accounts is missing or if one of the accounts is not yours,
+> please [contact us](https://github.com/servierhub/top-prisme/discussions) for modification,
+> or [fork](https://docs.github.com/en/pull-requests/collaborating-with-pull-requests/working-with-forks/about-forks) this repository,
+> edit the [prisme.src](https://github.com/servierhub/top-prisme/blob/main/prisme.src) source file
+> and make a [pull request](https://docs.github.com/articles/about-pull-requests).
+
 |Rank|Group|GitHub Account|Stars|Repos|Followers|
 |---|---|---|---|---|---|
-|1|[AstraZeneca](https://en.wikipedia.org/wiki/AstraZeneca)||**7393**|**133**|**366**|
-|||<img src="https://avatars.githubusercontent.com/u/16338928?s=200&v=4" width="32" height="32"> [AstraZeneca](https://github.com/AstraZeneca)|4202|65|312|
-|||<img src="https://avatars.githubusercontent.com/u/62212926?s=200&v=4" width="32" height="32"> [AstraZeneca - Molecular AI](https://github.com/MolecularAI)|2621|38|0|
-|||<img src="https://avatars.githubusercontent.com/u/7849971?s=200&v=4" width="32" height="32"> [AstraZeneca - NGS Team](https://github.com/AstraZeneca-NGS)|445|16|40|
+|1|[AstraZeneca](https://en.wikipedia.org/wiki/AstraZeneca)||**7440**|**133**|**373**|
+|||<img src="https://avatars.githubusercontent.com/u/16338928?s=200&v=4" width="32" height="32"> [AstraZeneca](https://github.com/AstraZeneca)|4220|65|320|
+|||<img src="https://avatars.githubusercontent.com/u/62212926?s=200&v=4" width="32" height="32"> [AstraZeneca - Molecular AI](https://github.com/MolecularAI)|2649|38|0|
+|||<img src="https://avatars.githubusercontent.com/u/7849971?s=200&v=4" width="32" height="32"> [AstraZeneca - NGS Team](https://github.com/AstraZeneca-NGS)|446|16|39|
 |||<img src="https://avatars.githubusercontent.com/u/51119823?s=200&v=4" width="32" height="32"> [AstraZeneca Centre for Genomics Research - publications](https://github.com/astrazeneca-cgr-publications)|92|7|14|
 |||<img src="https://avatars.githubusercontent.com/u/64014801?s=200&v=4" width="32" height="32"> [AstraZeneca Code Club](https://github.com/AstraZeneca-Code-Club)|33|4|0|
 |||<img src="https://avatars.githubusercontent.com/u/64710422?s=200&v=4" width="32" height="32"> [AstraZeneca Omics](https://github.com/AstraZeneca-Omics)|0|3|0|
 |||<img src="https://avatars.githubusercontent.com/u/38562512?s=200&v=4" width="32" height="32"> [Centre for Genomics Research, AstraZeneca UK](https://github.com/AstraZeneca-CGR)|0|0|0|
 |||<img src="https://avatars.githubusercontent.com/u/147880850?s=200&v=4" width="32" height="32"> [astrazeneca-automations](https://github.com/astrazeneca-automations)|0|0|0|
-|2|[Roche](https://en.wikipedia.org/wiki/Roche)||**2986**|**270**|**517**|
-|||<img src="https://avatars.githubusercontent.com/u/80070020?s=200&v=4" width="32" height="32"> [Roche/Genentech - Insights Engineering](https://github.com/insightsengineering)|965|86|231|
-|||<img src="https://avatars.githubusercontent.com/u/3913764?s=200&v=4" width="32" height="32"> [Genentech](https://github.com/genentech)|673|78|130|
-|||<img src="https://avatars.githubusercontent.com/u/7563198?s=200&v=4" width="32" height="32"> [The Bioinformatics Repository](https://github.com/bioinform)|637|19|29|
-|||<img src="https://avatars.githubusercontent.com/u/2841765?s=200&v=4" width="32" height="32"> [F. Hoffmann-La Roche](https://github.com/Roche)|609|23|122|
-|||<img src="https://avatars.githubusercontent.com/u/39733410?s=200&v=4" width="32" height="32"> [BEDApub](https://github.com/bedapub)|102|46|0|
+|2|[Roche](https://en.wikipedia.org/wiki/Roche)||**3016**|**275**|**520**|
+|||<img src="https://avatars.githubusercontent.com/u/80070020?s=200&v=4" width="32" height="32"> [Roche/Genentech - Insights Engineering](https://github.com/insightsengineering)|974|86|232|
+|||<img src="https://avatars.githubusercontent.com/u/3913764?s=200&v=4" width="32" height="32"> [Genentech](https://github.com/genentech)|685|82|131|
+|||<img src="https://avatars.githubusercontent.com/u/7563198?s=200&v=4" width="32" height="32"> [The Bioinformatics Repository](https://github.com/bioinform)|636|19|29|
+|||<img src="https://avatars.githubusercontent.com/u/2841765?s=200&v=4" width="32" height="32"> [F. Hoffmann-La Roche](https://github.com/Roche)|618|24|123|
+|||<img src="https://avatars.githubusercontent.com/u/39733410?s=200&v=4" width="32" height="32"> [BEDApub](https://github.com/bedapub)|103|46|0|
 |||<img src="https://avatars.githubusercontent.com/u/96266814?s=200&v=4" width="32" height="32"> [Roche Diagnostics Computation Science & Informatics](https://github.com/Roche-CSI)|0|18|5|
-|3|[Bayer](https://en.wikipedia.org/wiki/Bayer)||**1750**|**141**|**3745**|
-|||<img src="https://avatars.githubusercontent.com/u/64074560?s=200&v=4" width="32" height="32"> [Bayer Open Source](https://github.com/Bayer-Group)|1434|104|1400|
+|3|[Bayer](https://en.wikipedia.org/wiki/Bayer)||**1758**|**141**|**3745**|
+|||<img src="https://avatars.githubusercontent.com/u/64074560?s=200&v=4" width="32" height="32"> [Bayer Open Source](https://github.com/Bayer-Group)|1442|104|1400|
 |||<img src="https://avatars.githubusercontent.com/u/65339050?s=200&v=4" width="32" height="32"> [Bayer AG](https://github.com/bayer-science-for-a-better-life)|301|37|0|
 |||<img src="https://avatars.githubusercontent.com/u/87472566?s=200&v=4" width="32" height="32"> [Bayer](https://github.com/bayer-int)|15|0|2300|
 |||<img src="https://avatars.githubusercontent.com/u/111570341?s=200&v=4" width="32" height="32"> [Bayer Secret](https://github.com/bayer-secret)|0|0|45|
-|4|[Novartis](https://en.wikipedia.org/wiki/Novartis)||**1029**|**87**|**125**|
-|||<img src="https://avatars.githubusercontent.com/u/6154715?s=200&v=4" width="32" height="32"> [Novartis](https://github.com/Novartis)|1028|85|125|
+|4|[Novartis](https://en.wikipedia.org/wiki/Novartis)||**1034**|**88**|**127**|
+|||<img src="https://avatars.githubusercontent.com/u/6154715?s=200&v=4" width="32" height="32"> [Novartis](https://github.com/Novartis)|1033|86|127|
 |||<img src="https://avatars.githubusercontent.com/u/105354475?v=4" width="32" height="32"> [NovartisFoundation](https://github.com/NovartisFoundation)|1|1|0|
 |||<img src="https://avatars.githubusercontent.com/u/53245379?s=200&v=4" width="32" height="32"> [Novartis_Switzerland](https://github.com/novartis-switzerland)|0|1|0|
 |||<img src="https://avatars.githubusercontent.com/u/3358480?s=200&v=4" width="32" height="32"> [Novartis OTC](https://github.com/Novartis-OTC)|0|0|0|
@@ -52,12 +65,12 @@ This listing gives you access to all GitHub accounts used in this survey:
 |||<img src="https://avatars.githubusercontent.com/u/31731904?s=200&v=4" width="32" height="32"> [NovartisAPI](https://github.com/NovartisAPI)|0|0|0|
 |||<img src="https://avatars.githubusercontent.com/u/54267419?s=200&v=4" width="32" height="32"> [novartis-healthcare](https://github.com/novartis-healthcare)|0|0|0|
 |||<img src="https://avatars.githubusercontent.com/u/152210310?v=4" width="32" height="32"> [Novartis IT](https://github.com/novartis-it)|0|0|0|
-|||<img src="https://avatars.githubusercontent.com/u/103038609?s=200&v=4" width="32" height="32"> [NVS-MD](https://github.com/NVS-MD)|0|0|0|
-|5|[Merck & Co.](https://en.wikipedia.org/wiki/Merck_%26_Co.)||**991**|**86**|**131**|
-|||<img src="https://avatars.githubusercontent.com/u/7306189?s=200&v=4" width="32" height="32"> [Merck Sharp & Dohme Corp. a subsidiary of Merck & Co., Inc.](https://github.com/Merck)|991|76|131|
+|||<img src="https://avatars.githubusercontent.com/u/103038609?s=200&v=4" width="32" height="32"> [NVSMD](https://github.com/NVS-MD)|0|0|0|
+|5|[Merck & Co.](https://en.wikipedia.org/wiki/Merck_%26_Co.)||**1002**|**86**|**134**|
+|||<img src="https://avatars.githubusercontent.com/u/7306189?s=200&v=4" width="32" height="32"> [Merck Sharp & Dohme Corp. a subsidiary of Merck & Co., Inc.](https://github.com/Merck)|1002|76|134|
 |||<img src="https://avatars.githubusercontent.com/u/109157937?v=4" width="32" height="32"> [Merck DL account](https://github.com/merck-dl)|0|10|0|
-|6|[Novo Nordisk](https://en.wikipedia.org/wiki/Novo_Nordisk)||**941**|**123**|**44**|
-|||<img src="https://avatars.githubusercontent.com/u/5499849?s=200&v=4" width="32" height="32"> [DTU Biosustain](https://github.com/biosustain)|934|100|40|
+|6|[Novo Nordisk](https://en.wikipedia.org/wiki/Novo_Nordisk)||**941**|**123**|**45**|
+|||<img src="https://avatars.githubusercontent.com/u/5499849?s=200&v=4" width="32" height="32"> [DTU Biosustain](https://github.com/biosustain)|934|100|41|
 |||<img src="https://avatars.githubusercontent.com/u/160251107?s=200&v=4" width="32" height="32"> [Agile Arch Angels](https://github.com/Agile-Arch-Angels)|5|1|0|
 |||<img src="https://avatars.githubusercontent.com/u/108932070?s=200&v=4" width="32" height="32"> [Novo Nordisk Data Management & Analytics](https://github.com/nn-dma)|1|11|0|
 |||<img src="https://avatars.githubusercontent.com/u/125156235?s=200&v=4" width="32" height="32"> [Cognix](https://github.com/uwece-engine-novo-aed)|1|1|1|
@@ -71,13 +84,13 @@ This listing gives you access to all GitHub accounts used in this survey:
 |||<img src="https://avatars.githubusercontent.com/u/162385710?s=200&v=4" width="32" height="32"> [Novo Nordisk Inc.](https://github.com/Novo-Nordisk-Inc)|0|0|0|
 |||<img src="https://avatars.githubusercontent.com/u/132453849?s=200&v=4" width="32" height="32"> [Novo Nordisk Foundation](https://github.com/NovoNordiskFoundation)|0|0|0|
 |||<img src="https://avatars.githubusercontent.com/u/110285118?s=200&v=4" width="32" height="32"> [Novo Nordisk Connect](https://github.com/NovoNordiskThailand)|0|0|0|
-|7|[Sanofi](https://en.wikipedia.org/wiki/Sanofi)||**296**|**38**|**1084**|
-|||<img src="https://avatars.githubusercontent.com/u/94403953?s=200&v=4" width="32" height="32"> [Sanofi-Public](https://github.com/Sanofi-Public)|165|23|42|
+|7|[Sanofi](https://en.wikipedia.org/wiki/Sanofi)||**302**|**38**|**1085**|
+|||<img src="https://avatars.githubusercontent.com/u/94403953?s=200&v=4" width="32" height="32"> [Sanofi-Public](https://github.com/Sanofi-Public)|171|23|42|
 |||<img src="https://avatars.githubusercontent.com/u/58861538?s=200&v=4" width="32" height="32"> [Sanofi IADC](https://github.com/Sanofi-IADC)|131|8|0|
 |||<img src="https://avatars.githubusercontent.com/u/99833271?v=4" width="32" height="32"> [ServiceNow Development Factory](https://github.com/PS111761)|0|4|0|
 |||<img src="https://avatars.githubusercontent.com/u/88442838?s=200&v=4" width="32" height="32"> [DevOps-Sandbox](https://github.com/Sanofi-ECCS-DevOps)|0|2|1|
 |||<img src="https://avatars.githubusercontent.com/u/85884754?s=200&v=4" width="32" height="32"> [Sanofi-GitHub](https://github.com/Sanofi-GitHub)|0|1|1000|
-|||<img src="https://avatars.githubusercontent.com/u/104775196?s=200&v=4" width="32" height="32"> [Sanofi Accelerator](https://github.com/Sanofi-Accelerator)|0|0|40|
+|||<img src="https://avatars.githubusercontent.com/u/104775196?s=200&v=4" width="32" height="32"> [Sanofi Accelerator](https://github.com/Sanofi-Accelerator)|0|0|41|
 |||<img src="https://avatars.githubusercontent.com/u/29756664?s=200&v=4" width="32" height="32"> [Sanofi](https://github.com/Sanofi)|0|0|0|
 |||<img src="https://avatars.githubusercontent.com/u/129335053?s=200&v=4" width="32" height="32"> [Sanofi-CHC](https://github.com/Sanofi-CHC)|0|0|0|
 |||<img src="https://avatars.githubusercontent.com/u/94390062?s=200&v=4" width="32" height="32"> [Sanofi-OneAI](https://github.com/Sanofi-OneAI)|0|0|0|
@@ -88,16 +101,16 @@ This listing gives you access to all GitHub accounts used in this survey:
 |||<img src="https://avatars.githubusercontent.com/u/72496947?s=200&v=4" width="32" height="32"> [Sanofi](https://github.com/inercya-sanofi)|0|0|0|
 |||<img src="https://avatars.githubusercontent.com/u/149813593?s=200&v=4" width="32" height="32"> [Sanofi-ebiology-archives](https://github.com/Sanofi-ebiology-archives)|0|0|0|
 |||<img src="https://avatars.githubusercontent.com/u/35725754?v=4" width="32" height="32"> [Sanofi Developer](https://github.com/SanofiDev)|0|0|1|
-|8|[Pfizer](https://en.wikipedia.org/wiki/Pfizer)||**257**|**59**|**810**|
-|||<img src="https://avatars.githubusercontent.com/u/83447221?s=200&v=4" width="32" height="32"> [Pfizer Open Source](https://github.com/pfizer-opensource)|198|25|0|
+|8|[Pfizer](https://en.wikipedia.org/wiki/Pfizer)||**256**|**60**|**822**|
+|||<img src="https://avatars.githubusercontent.com/u/83447221?s=200&v=4" width="32" height="32"> [Pfizer Open Source](https://github.com/pfizer-opensource)|197|26|0|
 |||<img src="https://avatars.githubusercontent.com/u/32373610?s=200&v=4" width="32" height="32"> [openPfizer](https://github.com/openPfizer)|49|9|0|
 |||<img src="https://avatars.githubusercontent.com/u/19213564?s=200&v=4" width="32" height="32"> [Pfizer R&D - Deprecated](https://github.com/PfizerRD)|10|12|0|
 |||<img src="https://avatars.githubusercontent.com/u/29527659?s=200&v=4" width="32" height="32"> [Pfizer - ResApp Health Limited](https://github.com/ResAppHealth)|0|12|0|
 |||<img src="https://avatars.githubusercontent.com/u/137776275?s=200&v=4" width="32" height="32"> [Pfizer Operations & Insights](https://github.com/pfizer-operations-and-insights)|0|1|0|
-|||<img src="https://avatars.githubusercontent.com/u/1929112?s=200&v=4" width="32" height="32"> [Pfizer BPC (fka C4)](https://github.com/pfizer)|0|0|291|
-|||<img src="https://avatars.githubusercontent.com/u/81687326?s=200&v=4" width="32" height="32"> [Pfizer R&D](https://github.com/pfizer-rd)|0|0|293|
-|||<img src="https://avatars.githubusercontent.com/u/69030211?s=200&v=4" width="32" height="32"> [Pfizer Analytics](https://github.com/pfizer-analytics)|0|0|160|
-|||<img src="https://avatars.githubusercontent.com/u/82037478?s=200&v=4" width="32" height="32"> [Pfizer Digital Manufacturing](https://github.com/pfizer-digital-manufacuring)|0|0|53|
+|||<img src="https://avatars.githubusercontent.com/u/1929112?s=200&v=4" width="32" height="32"> [Pfizer BPC (fka C4)](https://github.com/pfizer)|0|0|295|
+|||<img src="https://avatars.githubusercontent.com/u/81687326?s=200&v=4" width="32" height="32"> [Pfizer R&D](https://github.com/pfizer-rd)|0|0|296|
+|||<img src="https://avatars.githubusercontent.com/u/69030211?s=200&v=4" width="32" height="32"> [Pfizer Analytics](https://github.com/pfizer-analytics)|0|0|164|
+|||<img src="https://avatars.githubusercontent.com/u/82037478?s=200&v=4" width="32" height="32"> [Pfizer Digital Manufacturing](https://github.com/pfizer-digital-manufacuring)|0|0|54|
 |||<img src="https://avatars.githubusercontent.com/u/154519353?s=200&v=4" width="32" height="32"> [Pfizer Innovation Center](https://github.com/pfizer-pic)|0|0|7|
 |||<img src="https://avatars.githubusercontent.com/u/108475668?s=200&v=4" width="32" height="32"> [Pfizer CMAO Evidence Generation Platform](https://github.com/pfizer-evgen)|0|0|6|
 |||<img src="https://avatars.githubusercontent.com/u/80473683?s=200&v=4" width="32" height="32"> [Pfizer Enterprise Platforms & Security](https://github.com/pfizer-eps)|0|0|0|
@@ -115,27 +128,27 @@ This listing gives you access to all GitHub accounts used in this survey:
 |||<img src="https://avatars.githubusercontent.com/u/93292501?s=200&v=4" width="32" height="32"> [Pfizer  - Lucira Health](https://github.com/Lucira-Health)|0|0|0|
 |||<img src="https://avatars.githubusercontent.com/u/139465668?s=200&v=4" width="32" height="32"> [Pfizer Github Automation](https://github.com/pfizer-github-automation)|0|0|0|
 |||<img src="https://avatars.githubusercontent.com/u/125591032?s=200&v=4" width="32" height="32"> [Identity & Access Management](https://github.com/pfizer-eps-dpp)|0|0|0|
-|9|[Johnson & Johnson](https://en.wikipedia.org/wiki/Johnson_%26_Johnson)||**228**|**36**|**0**|
-|||<img src="https://avatars.githubusercontent.com/u/13038032?s=200&v=4" width="32" height="32"> [Johnson & Johnson](https://github.com/johnsonandjohnson)|228|36|0|
-|10|[Regeneron Pharmaceuticals](https://en.wikipedia.org/wiki/Regeneron_Pharmaceuticals)||**226**|**11**|**48**|
-|||<img src="https://avatars.githubusercontent.com/u/14313709?v=4" width="32" height="32"> [RegeneronGeneticsCenter](https://github.com/rgcgithub)|203|6|45|
-|||<img src="https://avatars.githubusercontent.com/u/75637415?v=4" width="32" height="32"> [REGN-MPDS](https://github.com/regeneron-mpds)|23|5|3|
+|9|[Regeneron Pharmaceuticals](https://en.wikipedia.org/wiki/Regeneron_Pharmaceuticals)||**229**|**11**|**48**|
+|||<img src="https://avatars.githubusercontent.com/u/14313709?v=4" width="32" height="32"> [RegeneronGeneticsCenter](https://github.com/rgcgithub)|205|6|45|
+|||<img src="https://avatars.githubusercontent.com/u/75637415?v=4" width="32" height="32"> [REGN-MPDS](https://github.com/regeneron-mpds)|24|5|3|
 |||<img src="https://avatars.githubusercontent.com/u/116017838?s=200&v=4" width="32" height="32"> [Globant - Regeneron](https://github.com/GLB-RGC)|0|0|0|
 |||<img src="https://avatars.githubusercontent.com/u/50920698?s=200&v=4" width="32" height="32"> [Regeneron Genetics Center](https://github.com/regenerongeneticscenter)|0|0|0|
-|11|[GSK](https://en.wikipedia.org/wiki/GSK_plc)||**194**|**21**|**15**|
-|||<img src="https://avatars.githubusercontent.com/u/87132606?s=200&v=4" width="32" height="32"> [GSK Biostatistics](https://github.com/GSK-Biostatistics)|133|14|0|
-|||<img src="https://avatars.githubusercontent.com/u/67115882?s=200&v=4" width="32" height="32"> [GSK.AI](https://github.com/GSK-AI)|61|7|15|
-|12|[Biogen](https://en.wikipedia.org/wiki/Merck_Group)||**184**|**14**|**17**|
+|10|[Johnson & Johnson](https://en.wikipedia.org/wiki/Johnson_%26_Johnson)||**227**|**36**|**0**|
+|||<img src="https://avatars.githubusercontent.com/u/13038032?s=200&v=4" width="32" height="32"> [Johnson & Johnson](https://github.com/johnsonandjohnson)|227|36|0|
+|11|[GSK](https://en.wikipedia.org/wiki/GSK_plc)||**196**|**21**|**15**|
+|||<img src="https://avatars.githubusercontent.com/u/87132606?s=200&v=4" width="32" height="32"> [GSK Biostatistics](https://github.com/GSK-Biostatistics)|134|14|0|
+|||<img src="https://avatars.githubusercontent.com/u/67115882?s=200&v=4" width="32" height="32"> [GSK.AI](https://github.com/GSK-AI)|62|7|15|
+|12|[Biogen](https://en.wikipedia.org/wiki/Merck_Group)||**186**|**14**|**17**|
 |||<img src="https://avatars.githubusercontent.com/u/38562520?s=200&v=4" width="32" height="32"> [Biogen, Inc.](https://github.com/Biogen-Inc)|114|4|0|
-|||<img src="https://avatars.githubusercontent.com/u/31998452?v=4" width="32" height="32"> [Biogen Molecular Informatics](https://github.com/molecularinformatics)|70|3|10|
+|||<img src="https://avatars.githubusercontent.com/u/31998452?v=4" width="32" height="32"> [Biogen Molecular Informatics](https://github.com/molecularinformatics)|72|3|10|
 |||<img src="https://avatars.githubusercontent.com/u/98911594?s=200&v=4" width="32" height="32"> [BioGenR](https://github.com/BioGenR)|0|3|1|
 |||<img src="https://avatars.githubusercontent.com/u/137875644?s=200&v=4" width="32" height="32"> [Helix Biogen Institute](https://github.com/helix-biogen-institute)|0|2|2|
 |||<img src="https://avatars.githubusercontent.com/u/72617484?v=4" width="32" height="32"> [biogen-clarivate](https://github.com/biogen-clarivate)|0|1|2|
 |||<img src="https://avatars.githubusercontent.com/u/22685806?s=200&v=4" width="32" height="32"> [Biogen](https://github.com/Biogen-NGM)|0|1|0|
 |||<img src="https://avatars.githubusercontent.com/u/118611256?v=4" width="32" height="32"> [Helix Biogen Institute](https://github.com/HelixBiogenInstitute)|0|0|2|
-|13|[Boehringer Ingelheim](https://en.wikipedia.org/wiki/Boehringer_Ingelheim)||**174**|**40**|**66**|
-|||<img src="https://avatars.githubusercontent.com/u/62895628?s=200&v=4" width="32" height="32"> [Boehringer Ingelheim](https://github.com/Boehringer-Ingelheim)|161|33|56|
-|||<img src="https://avatars.githubusercontent.com/u/51877622?s=200&v=4" width="32" height="32"> [Boehringer Ingelheim Computational Biology Group (DE)](https://github.com/bi-compbio)|7|6|2|
+|13|[Boehringer Ingelheim](https://en.wikipedia.org/wiki/Boehringer_Ingelheim)||**176**|**42**|**67**|
+|||<img src="https://avatars.githubusercontent.com/u/62895628?s=200&v=4" width="32" height="32"> [Boehringer Ingelheim](https://github.com/Boehringer-Ingelheim)|163|34|57|
+|||<img src="https://avatars.githubusercontent.com/u/51877622?s=200&v=4" width="32" height="32"> [Boehringer Ingelheim Computational Biology Group (DE)](https://github.com/bi-compbio)|7|7|2|
 |||<img src="https://avatars.githubusercontent.com/u/45555608?v=4" width="32" height="32"> [Boehringer Ingelheim - Computational Chemisty Group](https://github.com/BICompChem)|6|1|2|
 |||<img src="https://avatars.githubusercontent.com/u/149679420?s=200&v=4" width="32" height="32"> [Boehringer Ingelheim](https://github.com/BI-Hackaton2023)|0|0|6|
 |||<img src="https://avatars.githubusercontent.com/u/77450098?s=200&v=4" width="32" height="32"> [Boehringer Ingelheim GmbH](https://github.com/Boehringer-Ingelheim-GmbH)|0|0|0|
@@ -185,10 +198,10 @@ This listing gives you access to all GitHub accounts used in this survey:
 |17|[Editas Medicine](https://en.wikipedia.org/wiki/Editas_Medicine)||**29**|**5**|**4**|
 |||<img src="https://avatars.githubusercontent.com/u/34661363?s=200&v=4" width="32" height="32"> [Editas Medicine, Inc.](https://github.com/editasmedicine)|29|5|1|
 |||<img src="https://avatars.githubusercontent.com/u/34661187?v=4" width="32" height="32"> [Editas Medicine](https://github.com/editasmedicinedev)|0|0|3|
-|18|[Bristol Myers Squibb](https://en.wikipedia.org/wiki/Bristol-Myers_Squibb)||**9**|**1**|**0**|
-|||<img src="https://avatars.githubusercontent.com/u/72743984?s=200&v=4" width="32" height="32"> [BMS-CPP](https://github.com/BMS-CPP)|9|1|0|
-|19|[Les Laboratoires Servier](https://en.wikipedia.org/wiki/Laboratoires_Servier)||**7**|**14**|**6**|
-|||<img src="https://avatars.githubusercontent.com/u/163363937?s=200&v=4" width="32" height="32"> [SERVIER HUB](https://github.com/servierhub)|7|14|2|
+|18|[Bristol Myers Squibb](https://en.wikipedia.org/wiki/Bristol-Myers_Squibb)||**10**|**1**|**0**|
+|||<img src="https://avatars.githubusercontent.com/u/72743984?s=200&v=4" width="32" height="32"> [BMS-CPP](https://github.com/BMS-CPP)|10|1|0|
+|19|[Les Laboratoires Servier](https://en.wikipedia.org/wiki/Laboratoires_Servier)||**5**|**12**|**6**|
+|||<img src="https://avatars.githubusercontent.com/u/163363937?s=200&v=4" width="32" height="32"> [SERVIER HUB](https://github.com/servierhub)|5|12|2|
 |||<img src="https://avatars.githubusercontent.com/u/88554853?s=200&v=4" width="32" height="32"> [Servier do Brasil](https://github.com/ServierDoBrasil)|0|0|4|
 |||<img src="https://avatars.githubusercontent.com/u/71084417?s=200&v=4" width="32" height="32"> [Servier](https://github.com/servier-github)|0|0|0|
 |||<img src="https://avatars.githubusercontent.com/u/77001237?s=200&v=4" width="32" height="32"> [servier-data-factory](https://github.com/servier-data-factory)|0|0|0|
@@ -208,11 +221,11 @@ This listing gives you access to all GitHub accounts used in this survey:
 |||<img src="https://avatars.githubusercontent.com/u/37211351?s=200&v=4" width="32" height="32"> [Astellas Nordic](https://github.com/astellasnordic)|0|0|0|
 |22|[Blueprint Medicines](https://www.blueprintmedicines.com/)||**0**|**0**|**0**|
 |||<img src="https://avatars.githubusercontent.com/u/8050329?s=200&v=4" width="32" height="32"> [Blueprint Medicines](https://github.com/blueprintmedicines)|0|0|0|
-|22|[Daiichi Sankyo](https://en.wikipedia.org/wiki/Daiichi_Sankyo)||**0**|**0**|**52**|
-|||<img src="https://avatars.githubusercontent.com/u/90361026?s=200&v=4" width="32" height="32"> [Daiichi-Sankyo (External)](https://github.com/daiichisankyo-external)|0|0|18|
-|||<img src="https://avatars.githubusercontent.com/u/89757670?s=200&v=4" width="32" height="32"> [Daiichi-Sankyo (General)](https://github.com/daiichisankyo-general)|0|0|18|
-|||<img src="https://avatars.githubusercontent.com/u/90361034?s=200&v=4" width="32" height="32"> [Daiichi-Sankyo (Training)](https://github.com/daiichisankyo-training)|0|0|15|
-|||<img src="https://avatars.githubusercontent.com/u/90361003?s=200&v=4" width="32" height="32"> [Daiichi-Sankyo](https://github.com/daiichisankyo)|0|0|1|
+|22|[Daiichi Sankyo](https://en.wikipedia.org/wiki/Daiichi_Sankyo)||**0**|**0**|**61**|
+|||<img src="https://avatars.githubusercontent.com/u/90361026?s=200&v=4" width="32" height="32"> [Daiichi-Sankyo (External)](https://github.com/daiichisankyo-external)|0|0|21|
+|||<img src="https://avatars.githubusercontent.com/u/89757670?s=200&v=4" width="32" height="32"> [Daiichi-Sankyo (General)](https://github.com/daiichisankyo-general)|0|0|22|
+|||<img src="https://avatars.githubusercontent.com/u/90361034?s=200&v=4" width="32" height="32"> [Daiichi-Sankyo (Training)](https://github.com/daiichisankyo-training)|0|0|16|
+|||<img src="https://avatars.githubusercontent.com/u/90361003?s=200&v=4" width="32" height="32"> [Daiichi-Sankyo](https://github.com/daiichisankyo)|0|0|2|
 |||<img src="https://avatars.githubusercontent.com/u/99969459?s=200&v=4" width="32" height="32"> [Daiichi-Sankyo Europe GmbH](https://github.com/Daiichi-Sankyo-Europe-GmbH)|0|0|0|
 |||<img src="https://avatars.githubusercontent.com/u/90361043?s=200&v=4" width="32" height="32"> [Daiichi-Sankyo (Admin Dev)](https://github.com/daiichisankyo-admin-dev)|0|0|0|
 |22|[Eisai](https://en.wikipedia.org/wiki/Eisai_(company))||**0**|**0**|**13**|
@@ -234,12 +247,5 @@ This listing gives you access to all GitHub accounts used in this survey:
 > **Repos** includes forked repositories but excludes ".github" or account namesake ones.<br>
 > **followers** accumulates accounts followers whether they are unique or not.
 
-> [!TIP]
-> If your company is not listed, if one of your GitHub accounts is missing or if one of the accounts is not yours,
-> please [contact us](https://github.com/servierhub/top-prisme/discussions) for modification,
-> or [fork](https://docs.github.com/en/pull-requests/collaborating-with-pull-requests/working-with-forks/about-forks) this repository,
-> edit the [prisme.src](https://github.com/servierhub/top-prisme/blob/main/prisme.src) source file
-> and make a [pull request](https://docs.github.com/articles/about-pull-requests).
-
 [^1]: This page was generated with the [topgh](https://github.com/HubTou/topgh) open source software on
-2024-05-23
+2024-06-01
