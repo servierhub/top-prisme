@@ -3,7 +3,7 @@
 # Top open source software from PRISME Forum members
 This is an automatically generated[^1] list of [open source](https://opensource.org/osd) software from [PRISME Forum members](https://prismeforum.org/) that are [present on GitHub](/README.md). It will be periodically refreshed from these sources' repositories.
 
-You can also focus on [what has been updated lately](Results/NEW.md).
+You can also focus on [what has been updated lately](NEW.md).
 
 ## Ranked by starred repositories
 
@@ -15,7 +15,7 @@ You can also focus on [what has been updated lately](Results/NEW.md).
 > <img src="https://github.com/HubTou/topgh/blob/main/icons/license.png"> **license**<br>
 > <img src="https://github.com/HubTou/topgh/blob/main/icons/last.png"> **last update date & time**<br>
 
-[Previous page](Results/SOFTWARE-3.md)
+[Previous page](SOFTWARE-3.md)
 
 |Rank|Software|
 |---|:---|
@@ -220,7 +220,7 @@ You can also focus on [what has been updated lately](Results/NEW.md).
 |106|[**Boehringer-Ingelheim/davinci**](https://github.com/Boehringer-Ingelheim/davinci)<br><img src='https://github.com/HubTou/topgh/blob/main/icons/license.png'> Other <img src='https://github.com/HubTou/topgh/blob/main/icons/last.png'> 2024-04-17 14:51:35 |
 |106|[**Boehringer-Ingelheim/BPrinStratTTE**](https://github.com/Boehringer-Ingelheim/BPrinStratTTE)<br>Causal Effects in Principal Strata Defined by Antidrug Antibodies<br><img src='https://github.com/HubTou/topgh/blob/main/icons/forks.png'> 1 <img src='https://github.com/HubTou/topgh/blob/main/icons/code.png'> R <img src='https://github.com/HubTou/topgh/blob/main/icons/license.png'> GNU General Public License v3.0 <img src='https://github.com/HubTou/topgh/blob/main/icons/last.png'> 2024-04-16 17:10:59 |
 
-[Next page](Results/SOFTWARE-5.md)
+[Next page](SOFTWARE-5.md)
 
 [^1]: This page was generated with the [topgh](https://github.com/HubTou/topgh) open source software on
 2024-06-01

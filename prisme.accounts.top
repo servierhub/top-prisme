@@ -5,7 +5,8 @@
 # PRISME Forum members on GitHub
 This is an automatically generated[^1] list of [PRISME Forum members](https://prismeforum.org/) that are present on GitHub. It will be periodically refreshed from the following GitHub accounts.
 
-You can also access the [ranked listing of open source software they share](Results/SOFTWARE.md) or [what they have updated lately](Results/NEW.md).
+You can also access the [ranked listing of open source software they share](Results/SOFTWARE.md) or [what they have updated lately](Results/NEW.md),
+which will spare you from checking what each member publishes (over 1200 repositories on 180+ GitHub acounts).
 
 This was initially presented during the [PRISME Forum event in Saclay, France, on May 20-23 2024](https://www.linkedin.com/posts/frederic-careghi_prismeforum-servier-parissaclay-activity-7199710738674786304-CXMm?utm_source=share&utm_medium=member_desktop).
 
@@ -20,9 +21,7 @@ Some of the major goals of PRISME are to:
 
 5. Alert Members to new and emerging information technologies and products of special relevance to biotech and pharma R&D.
 
-What follows is intended to contribute reaching these goals.
-
-However, if you don't want to spend time checking what each member publishes (over 1200 repositories on 180+ GitHub acounts), you can use our companion list of [top open-source software from their companies](https://github.com/servierhub/top-opensource-prisme) instead, where these repositories will be ranked by stars received for you to zoom on the most recognized software first...
+This repository is intended to contribute reaching these goals.
 
 ## Groups ranked by starred repositories with all details
 This listing gives you access to all GitHub accounts used in this survey:

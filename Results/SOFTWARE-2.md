@@ -3,7 +3,7 @@
 # Top open source software from PRISME Forum members
 This is an automatically generated[^1] list of [open source](https://opensource.org/osd) software from [PRISME Forum members](https://prismeforum.org/) that are [present on GitHub](/README.md). It will be periodically refreshed from these sources' repositories.
 
-You can also focus on [what has been updated lately](Results/NEW.md).
+You can also focus on [what has been updated lately](NEW.md).
 
 ## Ranked by starred repositories
 
@@ -15,7 +15,7 @@ You can also focus on [what has been updated lately](Results/NEW.md).
 > <img src="https://github.com/HubTou/topgh/blob/main/icons/license.png"> **license**<br>
 > <img src="https://github.com/HubTou/topgh/blob/main/icons/last.png"> **last update date & time**<br>
 
-[Previous page](/Results/SOFTWARE.md)
+[Previous page](SOFTWARE.md)
 
 |Rank|Software|
 |---|:---|
@@ -220,7 +220,7 @@ You can also focus on [what has been updated lately](Results/NEW.md).
 |101|[**genentech/fishtones-js**](https://github.com/genentech/fishtones-js)<br><img src='https://github.com/HubTou/topgh/blob/main/icons/gstars.png'> 5 <img src='https://github.com/HubTou/topgh/blob/main/icons/forks.png'> 2 <img src='https://github.com/HubTou/topgh/blob/main/icons/code.png'> JavaScript <img src='https://github.com/HubTou/topgh/blob/main/icons/license.png'> Other <img src='https://github.com/HubTou/topgh/blob/main/icons/last.png'> 2015-04-08 12:25:55 |
 |101|[**Roche/gemtcPlus**](https://github.com/Roche/gemtcPlus)<br>R package that provides models and functions to fit non-standard NMAs: piecewise exponential models and fractional polynomial models for grouped survival data (derived from digitized Kaplan-Meier curves).<br><img src='https://github.com/HubTou/topgh/blob/main/icons/gstars.png'> 5 <img src='https://github.com/HubTou/topgh/blob/main/icons/forks.png'> 3 <img src='https://github.com/HubTou/topgh/blob/main/icons/code.png'> R <img src='https://github.com/HubTou/topgh/blob/main/icons/license.png'> Apache License 2.0 <img src='https://github.com/HubTou/topgh/blob/main/icons/last.png'> 2023-06-27 09:50:12 |
 
-[Next page](Results/SOFTWARE-3.md)
+[Next page](SOFTWARE-3.md)
 
 [^1]: This page was generated with the [topgh](https://github.com/HubTou/topgh) open source software on
 2024-06-01

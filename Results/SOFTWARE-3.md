@@ -3,7 +3,7 @@
 # Top open source software from PRISME Forum members
 This is an automatically generated[^1] list of [open source](https://opensource.org/osd) software from [PRISME Forum members](https://prismeforum.org/) that are [present on GitHub](/README.md). It will be periodically refreshed from these sources' repositories.
 
-You can also focus on [what has been updated lately](Results/NEW.md).
+You can also focus on [what has been updated lately](NEW.md).
 
 ## Ranked by starred repositories
 
@@ -15,7 +15,7 @@ You can also focus on [what has been updated lately](Results/NEW.md).
 > <img src="https://github.com/HubTou/topgh/blob/main/icons/license.png"> **license**<br>
 > <img src="https://github.com/HubTou/topgh/blob/main/icons/last.png"> **last update date & time**<br>
 
-[Previous page](Results/SOFTWARE-2.md)
+[Previous page](SOFTWARE-2.md)
 
 |Rank|Software|
 |---|:---|
@@ -220,7 +220,7 @@ You can also focus on [what has been updated lately](Results/NEW.md).
 |105|[**AbbVie-ComputationalGenomics/benchmark-scrna-normalization**](https://github.com/AbbVie-ComputationalGenomics/benchmark-scrna-normalization)<br><img src='https://github.com/HubTou/topgh/blob/main/icons/gstars.png'> 1 <img src='https://github.com/HubTou/topgh/blob/main/icons/code.png'> R <img src='https://github.com/HubTou/topgh/blob/main/icons/last.png'> 2022-03-05 22:40:18 |
 |105|[**AbbVie-ComputationalGenomics/exactRra**](https://github.com/AbbVie-ComputationalGenomics/exactRra)<br><img src='https://github.com/HubTou/topgh/blob/main/icons/gstars.png'> 1 <img src='https://github.com/HubTou/topgh/blob/main/icons/code.png'> R <img src='https://github.com/HubTou/topgh/blob/main/icons/last.png'> 2021-07-04 17:00:38 |
 
-[Next page](Results/SOFTWARE-4.md)
+[Next page](SOFTWARE-4.md)
 
 [^1]: This page was generated with the [topgh](https://github.com/HubTou/topgh) open source software on
 2024-06-01

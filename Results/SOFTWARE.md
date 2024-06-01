@@ -3,7 +3,7 @@
 # Top open source software from PRISME Forum members
 This is an automatically generated[^1] list of [open source](https://opensource.org/osd) software from [PRISME Forum members](https://prismeforum.org/) that are [present on GitHub](/README.md). It will be periodically refreshed from these sources' repositories.
 
-You can also focus on [what has been updated lately](Results/NEW.md).
+You can also focus on [what has been updated lately](NEW.md).
 
 ## Ranked by starred repositories
 
@@ -218,7 +218,7 @@ You can also focus on [what has been updated lately](Results/NEW.md).
 |92|[**AstraZeneca/biomedical-kg-topological-imbalance**](https://github.com/AstraZeneca/biomedical-kg-topological-imbalance)<br>Code to accompany the "Implications of Topological Imbalance for Representation Learning on Biomedical Knowledge Graphs" (Briefings in Bioinformatics, 2022)<br><img src='https://github.com/HubTou/topgh/blob/main/icons/gstars.png'> 14 <img src='https://github.com/HubTou/topgh/blob/main/icons/code.png'> Jupyter Notebook <img src='https://github.com/HubTou/topgh/blob/main/icons/license.png'> Apache License 2.0 <img src='https://github.com/HubTou/topgh/blob/main/icons/last.png'> 2024-05-21 08:59:16 |
 |92|[**bayer-science-for-a-better-life/contrastive-reconstruction**](https://github.com/bayer-science-for-a-better-life/contrastive-reconstruction)<br>Tensorflow-keras implementation for Contrastive Reconstruction (ConRec) : a self-supervised learning algorithm that obtains image representations by jointly optimizing a contrastive and a self-reconstruction loss.<br><img src='https://github.com/HubTou/topgh/blob/main/icons/gstars.png'> 14 <img src='https://github.com/HubTou/topgh/blob/main/icons/forks.png'> 3 <img src='https://github.com/HubTou/topgh/blob/main/icons/code.png'> Python <img src='https://github.com/HubTou/topgh/blob/main/icons/license.png'> GNU General Public License v3.0 <img src='https://github.com/HubTou/topgh/blob/main/icons/last.png'> 2022-02-22 20:12:18 |
 
-[Next page](Results/SOFTWARE-2.md)
+[Next page](SOFTWARE-2.md)
 
 [^1]: This page was generated with the [topgh](https://github.com/HubTou/topgh) open source software on
 2024-06-01

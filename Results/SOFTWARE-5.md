@@ -3,7 +3,7 @@
 # Top open source software from PRISME Forum members
 This is an automatically generated[^1] list of [open source](https://opensource.org/osd) software from [PRISME Forum members](https://prismeforum.org/) that are [present on GitHub](/README.md). It will be periodically refreshed from these sources' repositories.
 
-You can also focus on [what has been updated lately](Results/NEW.md).
+You can also focus on [what has been updated lately](NEW.md).
 
 ## Ranked by starred repositories
 
@@ -15,7 +15,7 @@ You can also focus on [what has been updated lately](Results/NEW.md).
 > <img src="https://github.com/HubTou/topgh/blob/main/icons/license.png"> **license**<br>
 > <img src="https://github.com/HubTou/topgh/blob/main/icons/last.png"> **last update date & time**<br>
 
-[Previous page](Results/SOFTWARE-4.md)
+[Previous page](SOFTWARE-4.md)
 
 |Rank|Software|
 |---|:---|
@@ -220,7 +220,7 @@ You can also focus on [what has been updated lately](Results/NEW.md).
 |106|[**Novartis/Cell-Quant**](https://github.com/Novartis/Cell-Quant)<br>Iba1+ cells in the PEC are generally sparsely distributed around the posterior eye cup, but manual quantification of these cells is time consuming. Therefore we developed a second semi-automated MatLab code to quantify single Iba1+ cells. The operator is presented with masked, randomized images and allowed to remove non-specific fluorescence (fa…<br><img src='https://github.com/HubTou/topgh/blob/main/icons/code.png'> MATLAB <img src='https://github.com/HubTou/topgh/blob/main/icons/license.png'> Apache License 2.0 <img src='https://github.com/HubTou/topgh/blob/main/icons/last.png'> 2018-09-24 13:10:44 |
 |106|[**Novartis/CNV-Analysis**](https://github.com/Novartis/CNV-Analysis)<br>Confluent and overlapping cells are difficult to quantify in low power images. This MatLab code allows a user to analyze the pixel intensity (integrated density) over a region of interest (ROI) in low power images as a surrogate for cell number. This code was optimized for use in our Choroidal Neovascularization model, and allows for the analysi…<br><img src='https://github.com/HubTou/topgh/blob/main/icons/code.png'> MATLAB <img src='https://github.com/HubTou/topgh/blob/main/icons/license.png'> Apache License 2.0 <img src='https://github.com/HubTou/topgh/blob/main/icons/last.png'> 2018-09-24 13:09:20 |
 
-[Next page](Results/SOFTWARE-6.md)
+[Next page](SOFTWARE-6.md)
 
 [^1]: This page was generated with the [topgh](https://github.com/HubTou/topgh) open source software on
 2024-06-01

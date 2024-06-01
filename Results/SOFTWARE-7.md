@@ -3,7 +3,7 @@
 # Top open source software from PRISME Forum members
 This is an automatically generated[^1] list of [open source](https://opensource.org/osd) software from [PRISME Forum members](https://prismeforum.org/) that are [present on GitHub](/README.md). It will be periodically refreshed from these sources' repositories.
 
-You can also focus on [what has been updated lately](Results/NEW.md).
+You can also focus on [what has been updated lately](NEW.md).
 
 ## Ranked by starred repositories
 
@@ -15,7 +15,7 @@ You can also focus on [what has been updated lately](Results/NEW.md).
 > <img src="https://github.com/HubTou/topgh/blob/main/icons/license.png"> **license**<br>
 > <img src="https://github.com/HubTou/topgh/blob/main/icons/last.png"> **last update date & time**<br>
 
-[Previous page](Results/SOFTWARE-6.md)
+[Previous page](SOFTWARE-6.md)
 
 |Rank|Software|
 |---|:---|
