@@ -39,6 +39,7 @@ astrazeneca-automations|AstraZeneca|
 *|Bayer|country="DE" website="https://en.wikipedia.org/wiki/Bayer" 2023rank=17
 Bayer-Group|Bayer|r=105 f=1400
 bayer-science-for-a-better-life|Bayer|r=37
+bayer-staging|Bayer|r=1
 bayer-int|Bayer|r=1 f=2200
 bayer-secret|Bayer|f=44
 
@@ -167,6 +168,7 @@ merck-dl|Merck & Co.|r=10 f=2
 # Novartis
 *|Novartis|country="CH" website="https://en.wikipedia.org/wiki/Novartis" 2023rank=4
 Novartis|Novartis|r=84 f=121
+rdkit|Novartis|r=38 f=292
 novartis-switzerland|Novartis|r=1
 NovartisFoundation|Novartis|r=1
 Novartis-OTC|Novartis|
@@ -180,6 +182,7 @@ NVS-MD|Novartis|
 # Novo Nordisk
 *|Novo Nordisk|country="DK" website="https://en.wikipedia.org/wiki/Novo_Nordisk" 2023rank=14
 biosustain|Novo Nordisk|r=100 f=40
+NovoNordisk-OpenSource|Novo Nordisk|r=26
 nn-dma|Novo Nordisk|r=11
 cbmr-data|Novo Nordisk|r=5
 MedManageW|Novo Nordisk|r=2
@@ -302,3 +305,4 @@ BMS-CPP|Bristol Myers Squibb|r=1
 # Haleon
 *|Haleon|country="UK" website="https://en.wikipedia.org/wiki/Haleon"
 
+rdkit|Novartis|r=38 f=292

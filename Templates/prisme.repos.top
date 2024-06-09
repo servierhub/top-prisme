@@ -1,5 +1,5 @@
 <!--author="Hubert Tournier"-->
-<!--topgh:source id="prisme" file="prisme.src"-->
+<!--topgh:source id="prisme" file="Sources/prisme.src"-->
 <!--topgh:destination file="Results/SOFTWARE.md" format="MD"-->
 [![Servier Contributed](https://raw.githubusercontent.com/servierhub/.github/main/badges/contributed.svg)](https://github.com/ServierHub/)
 # Top open source software from PRISME Forum members
@@ -19,5 +19,4 @@ You can also focus on [what has been updated lately](NEW.md).
 
 <!--topgh:top.repositories.1 source="prisme" order_by="stargazers_count" page_items=200-->
 
-[^1]: This page was generated with the [topgh](https://github.com/HubTou/topgh) open source software on 
-<!--topgh:date-->
+[^1]: This page was generated with the [topgh](https://github.com/HubTou/topgh) open source software on <!--topgh:date-->

@@ -1,5 +1,5 @@
 <!--author="Hubert Tournier"-->
-<!--topgh:source id="prisme" file="prisme.src"-->
+<!--topgh:source id="prisme" file="Sources/prisme.src"-->
 <!--topgh:destination file="Results/NEW.md" format="MD"-->
 [![Servier Contributed](https://raw.githubusercontent.com/servierhub/.github/main/badges/contributed.svg)](https://github.com/ServierHub/)
 # What's new in open source software from PRISME Forum members
@@ -20,5 +20,4 @@ Taking the 200 last ones.
 
 <!--topgh:top.repositories.1 source="prisme" order_by="last_updated" max_items=200-->
 
-[^1]: This page was generated with the [topgh](https://github.com/HubTou/topgh) open source software on 
-<!--topgh:date-->
+[^1]: This page was generated with the [topgh](https://github.com/HubTou/topgh) open source software on <!--topgh:date-->
