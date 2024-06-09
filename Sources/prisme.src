@@ -166,6 +166,7 @@ Merck|Merck & Co.|r=77 f=129
 merck-dl|Merck & Co.|r=10 f=2
 
 # Novartis
+# See https://www.novartis.com/research-development/open-source-science
 *|Novartis|country="CH" website="https://en.wikipedia.org/wiki/Novartis" 2023rank=4
 Novartis|Novartis|r=84 f=121
 rdkit|Novartis|r=38 f=292

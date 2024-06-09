@@ -7,7 +7,7 @@ This is an automatically generated[^1] list of recently updated [open source](ht
 
 You can also access the [full listing](SOFTWARE.md).
 
-## Sorted by last update
+## Sorted by last update till 2024-06-09
 Taking the 200 last ones.
 
 > [!NOTE]
